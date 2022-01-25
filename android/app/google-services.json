@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17317592638",
+    "project_id": "openclear-app",
+    "storage_bucket": "openclear-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17317592638:android:40a9bd90dcfd9975ea1b6f",
+        "android_client_info": {
+          "package_name": "com.open.open_clear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17317592638-7oo4u8km0gs5e8nt3t8um3q68b067c73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdv4-I2hNINzxijEqZqigqep_C13MtaVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17317592638-7oo4u8km0gs5e8nt3t8um3q68b067c73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
