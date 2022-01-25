@@ -48,8 +48,8 @@ android {
         applicationId "com.open.open_clear"
          minSdkVersion 21
         targetSdkVersion 30
-        versionCode flutterVersionCode.toInteger()
-        versionName flutterVersionName
+        versionCode 1.0
+        versionName "1.0"
     }
 
     buildTypes {
